@@ -2,8 +2,8 @@
 edition = "2024"
 name = "perfetto-protos-android-log"
 version = "1.0.0"
-authors = ["David Reveman <reveman@meta.com>"]
-description = "Extra protobuf bindings for GPU events"
+authors = ["Sergej Isbrecht <sergej.isbrecht@gmail.com>"]
+description = "Extra protobuf bindings for Android log events"
 readme = "README.md"
 keywords = [
     "tracing",
